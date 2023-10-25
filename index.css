@@ -503,5 +503,437 @@
     color: white;
     }
 
+    .origem {
+    font-size: 50pt;
+    height: 500px;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 0px;
+    color:rgba(0, 0, 0, 0.87);
+    align-items: center;
+    font-size: 50pt;
+    transition: all 1 cubic-bezier(0,1.36,.78,.78);
+    transition-duration: 1s;
+    }
 
+    .origem:hover{
+        background-color:#658d9d
+    }
+
+      .logo15 {
+    margin-top: 50px;
+    float: left;
+    width: 400px; 
+    height:400px;       
+    border-radius: 80em;
+    margin-right: 200px;
+    }
+
+    .interstellar {
+    font-size: 50pt;
+    height: 500px;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 0px;
+    color:rgba(0, 0, 0, 0.87);
+    align-items: center;
+    font-size: 50pt;
+    transition: all 1 cubic-bezier(0,1.36,.78,.78);
+    transition-duration: 1s;
+    }
+
+    .interstellar:hover {
+        background-color:#fefefc
+
+    }
+
+     .logo16 {
+    margin-top: 50px;
+    float: left;
+    width: 400px; 
+    height:400px;       
+    border-radius: 80em;
+    margin-right: 200px;
+    }
+
+    .sw {
+    font-size: 50pt;
+    height: 500px;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 0px;
+    color:rgba(0, 0, 0, 0.87);
+    align-items: center;
+    font-size: 50pt;
+    transition: all 1 cubic-bezier(0,1.36,.78,.78);
+    transition-duration: 1s;
+    }
+
+    .sw:hover {
+        background-color:#7362a4
+
+    }
+
+     .logo17 {
+    margin-top: 50px;
+    float: left;
+    width: 400px; 
+    height:400px;       
+    border-radius: 80em;
+    margin-right: 200px;
+    }
+
+     .sw2 {
+    font-size: 50pt;
+    height: 500px;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 0px;
+    color:rgba(0, 0, 0, 0.87);
+    align-items: center;
+    font-size: 50pt;
+    transition: all 1 cubic-bezier(0,1.36,.78,.78);
+    transition-duration: 1s;
+    }
+
+    .sw2:hover {
+        background-color:#7387aa
+
+    }
+
+     .logo18 {
+    margin-top: 50px;
+    float: left;
+    width: 400px; 
+    height:400px;       
+    border-radius: 80em;
+    margin-right: 200px;
+    }
+
+    .future {
+    font-size: 50pt;
+    height: 500px;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 0px;
+    color:rgba(0, 0, 0, 0.87);
+    align-items: center;
+    font-size: 50pt;
+    transition: all 1 cubic-bezier(0,1.36,.78,.78);
+    transition-duration: 1s;
+    }
+
+    .future:hover {
+        background-color:#e84f75
+
+    }
+
+     .logo19 {
+    margin-top: 50px;
+    float: left;
+    width: 400px; 
+    height:400px;       
+    border-radius: 80em;
+    margin-right: 200px;
+    }
+
+      .scary {
+    margin-top: 200px;
+    border-right: 5px solid rgba(255, 227, 69, 0.87);  border-left: 5px solid rgba(255, 227, 69, 0.87);
+    border-top: 5px solid rgba(255, 227, 69, 0.87);    border-bottom:5px solid rgba(255, 227, 69, 0.87); ;
+    font-family: 'Montserrat', sans-serif;
+    text-align:justify;
+    font-size: 50pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    }
+
+     .alien {
+    font-size: 50pt;
+    height: 500px;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 0px;
+    color:rgba(0, 0, 0, 0.87);
+    align-items: center;
+    font-size: 50pt;
+    transition: all 1 cubic-bezier(0,1.36,.78,.78);
+    transition-duration: 1s;
+    }
+
+    .alien:hover {
+        background-color:#80a03d
+
+    }
+
+    .logo20 {
+    margin-top: 50px;
+    float: left;
+    width: 400px; 
+    height:400px;       
+    border-radius: 80em;
+    margin-right: 200px;
+    }
+
+     .psicose {
+    font-size: 50pt;
+    height: 500px;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 0px;
+    color:rgba(0, 0, 0, 0.87);
+    align-items: center;
+    font-size: 50pt;
+    transition: all 1 cubic-bezier(0,1.36,.78,.78);
+    transition-duration: 1s;
+    }
+
+    .psicose:hover {
+        background-color:#c9c9c9
+
+    }
+
+    .logo21 {
+    margin-top: 50px;
+    float: left;
+    width: 400px; 
+    height:400px;       
+    border-radius: 80em;
+    margin-right: 200px;
+    }
+
+     .iluminado {
+    font-size: 50pt;
+    height: 400px;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 0px;
+    color:rgba(0, 0, 0, 0.87);
+    align-items: center;
+    font-size: 50pt;
+    transition: all 1 cubic-bezier(0,1.36,.78,.78);
+    transition-duration: 1s;
+    }
+
+    .iluminado:hover {
+        background-color:#fbcc24
+
+    }
+
+    .logo22 {
+    float: left;
+    width: 400px; 
+    height:400px;       
+    border-radius: 80em;
+    margin-right: 200px;
+    }
+
+     .enigma {
+    font-size: 50pt;
+    height: 500px;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 0px;
+    color:rgba(0, 0, 0, 0.87);
+    align-items: center;
+    font-size: 50pt;
+    transition: all 1 cubic-bezier(0,1.36,.78,.78);
+    transition-duration: 1s;
+    }
+
+    .enigma:hover {
+        background-color:#527984
+    }
+
+    .logo23 {
+    margin-top: 50px;
+    float: left;
+    width: 400px; 
+    height:400px;       
+    border-radius: 80em;
+    margin-right: 200px;
+    }
+
+     .exo {
+    font-size: 50pt;
+    height: 500px;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 0px;
+    color:rgba(0, 0, 0, 0.87);
+    align-items: center;
+    font-size: 50pt;
+    transition: all 1 cubic-bezier(0,1.36,.78,.78);
+    transition-duration: 1s;
+    }
+
+    .exo:hover {
+        background-color:#d4d1ad
+
+    }
+
+    .logo24 {
+    margin-top: 50px;
+    float: left;
+    width: 400px; 
+    height:400px;       
+    border-radius: 80em;
+    margin-right: 200px;
+    }
     
+      .dramah {
+    margin-top: 200px;
+    border-right: 5px solid rgba(255, 227, 69, 0.87);  border-left: 5px solid rgba(255, 227, 69, 0.87);
+    border-top: 5px solid rgba(255, 227, 69, 0.87);    border-bottom:5px solid rgba(255, 227, 69, 0.87); ;
+    font-family: 'Montserrat', sans-serif;
+    text-align:justify;
+    font-size: 50pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    }
+
+    .liberdade {
+    font-size: 50pt;
+    height: 500px;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 0px;
+    color:rgba(0, 0, 0, 0.87);
+    align-items: center;
+    font-size: 50pt;
+    transition: all 1 cubic-bezier(0,1.36,.78,.78);
+    transition-duration: 1s;
+    }
+
+    .liberdade:hover {
+        background-color:#323a66
+
+    }
+
+    .logo25 {
+    margin-top: 50px;
+    float: left;
+    width: 400px; 
+    height:400px;       
+    border-radius: 80em;
+    margin-right: 200px;
+    }
+
+     .lista {
+    font-size: 50pt;
+    height: 400px;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 0px;
+    color:rgba(0, 0, 0, 0.87);
+    align-items: center;
+    font-size: 50pt;
+    transition: all 1 cubic-bezier(0,1.36,.78,.78);
+    transition-duration: 1s;
+    }
+
+    .lista:hover {
+        background-color:#790f0f
+
+    }
+
+    .logo26 {
+    float: left;
+    width: 400px; 
+    height:400px;       
+    border-radius: 80em;
+    margin-right: 200px;
+    }
+
+     .gump {
+    font-size: 50pt;
+    height: 400px;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 0px;
+    color:rgba(0, 0, 0, 0.87);
+    align-items: center;
+    font-size: 50pt;
+    transition: all 1 cubic-bezier(0,1.36,.78,.78);
+    transition-duration: 1s;
+    }
+
+    .gump:hover {
+        background-color:#afcfe7
+
+    }
+
+    .logo27 {
+    float: left;
+    width: 400px; 
+    height:400px;       
+    border-radius: 80em;
+    margin-right: 200px;
+    }
+
+     .ninho {
+    font-size: 50pt;
+    height: 500px;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 0px;
+    color:rgba(0, 0, 0, 0.87);
+    align-items: center;
+    font-size: 50pt;
+    transition: all 1 cubic-bezier(0,1.36,.78,.78);
+    transition-duration: 1s;
+    }
+
+    .ninho:hover {
+        background-color:white
+
+    }
+
+    .logo28 {
+    margin-top: 50px;
+    float: left;
+    width: 400px; 
+    height:400px;       
+    border-radius: 80em;
+    margin-right: 200px;
+    }
+
+     .milagre {
+    font-size: 50pt;
+    height: 400px;
+    font-family: 'Oswald', sans-serif;
+    margin-left: 0px;
+    color:rgba(0, 0, 0, 0.87);
+    align-items: center;
+    font-size: 50pt;
+    transition: all 1 cubic-bezier(0,1.36,.78,.78);
+    transition-duration: 1s;
+    }
+
+    .milagre:hover {
+        background-color:#e8aa56
+
+    }
+
+    .logo29 {
+    float: left;
+    width: 400px; 
+    height:400px;       
+    border-radius: 80em;
+    margin-right: 200px;
+    }
+
+    .aviso {
+    margin-top: 200px;
+    border-right: 5px solid rgba(255, 227, 69, 0.87);  border-left: 5px solid rgba(255, 227, 69, 0.87);
+    border-top: 5px solid rgba(255, 227, 69, 0.87);    border-bottom:5px solid rgba(255, 227, 69, 0.87); ;
+    font-family: 'Montserrat', sans-serif;
+    text-align:justify;
+    font-size: 50pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    }
+
+     p.atualiza {
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 50px;
+    margin-top: 100px;
+    color:white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 50pt;
+    }
+
