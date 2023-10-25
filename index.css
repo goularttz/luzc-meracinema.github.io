@@ -890,7 +890,7 @@
 
      .milagre {
     font-size: 50pt;
-    height: 400px;
+    height: 500px;
     font-family: 'Oswald', sans-serif;
     margin-left: 0px;
     color:rgba(0, 0, 0, 0.87);
@@ -906,6 +906,7 @@
     }
 
     .logo29 {
+    margin-top:50px;
     float: left;
     width: 400px; 
     height:400px;       
